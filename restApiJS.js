@@ -8,7 +8,7 @@ fetch(apiUrl)
     return response.json();
   })
   .then(data => {
-    // 각 국가의 수도 정보만 추출하여 화면에 출력
+    // 각 korea의 국가명, 수도, 화폐 정보만 추출하여 화면에 출력
     //console.log(data)
     data.forEach(country => {
  
