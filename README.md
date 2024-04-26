@@ -22,4 +22,3 @@ restAPI응답을 JSON 으로 파싱하여 korea의 국가명, 수도, 화폐 정
     Country: North Korea, capital: Pyongyang , currencies: North Korean won
 
 
-위 와 같은 결과 출력됨.
