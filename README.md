@@ -1,4 +1,4 @@
-##restAPI를 실습해 볼 수 있는 공개 API사이트 이용
+restAPI를 실습해 볼 수 있는 공개 API사이트 이용
 
 URL: https://restcountries.com
 
