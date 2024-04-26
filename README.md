@@ -8,7 +8,27 @@ URL: https://restcountries.com
 
 .
 
-.
+``` html
+https://restcountries.com/v3.1/all
+```
+
+
+## Name
+
+**Search** by country name. If you want to get an exact match, use the next endpoint. It can be the common or official value
+``` html
+https://restcountries.com/v3.1/name/{name}
+```
+
+``` html
+https://restcountries.com/v3.1/name/eesti
+```
+
+``` html
+https://restcountries.com/v3.1/name/deutschland
+```
+
+
 
 .
 
@@ -16,6 +36,7 @@ URL: https://restcountries.com
 자바스크립트로 만든 restApiJS.js 을 보면
 
 restAPI응답을 JSON 으로 파싱하여 korea의 국가명, 수도, 화폐 정보만 추출하여 화면에 출력
+
 
     Country: South Korea, capital: Seoul , currencies: South Korean won
 
